@@ -1,0 +1,58 @@
+.hi-melody-regular {
+  font-family: "Hi Melody", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-puddles-regular {
+  font-family: "Rubik Puddles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'cloud';
+    src: url(fonts/DEFECAFO.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'flower1';
+    src: url(fonts/FlowerFont-Regular.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'flower2';
+    src: url(fonts/SoMeFlOwErS.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'sewing';
+    src: url(fonts/Inmyc___.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'hangnote';
+    src: url(fonts/Notedry.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'hangnotebase';
+    src: url(fonts/Notedry\ Base.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+h1 {
+    font-family: cloud;
+}
