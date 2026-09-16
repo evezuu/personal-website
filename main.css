@@ -19,6 +19,29 @@
 }
 
 @font-face {
+    font-family: 'watereffect';
+    src: url(fonts/Line\ Etch.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: 'star1';
+    src: url(fonts/Independence.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'star2';
+    src: url(fonts/MidnightConstellations.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+@font-face {
     font-family: 'flower1';
     src: url(fonts/FlowerFont-Regular.ttf);
     font-style: normal;
@@ -52,6 +75,83 @@
     font-style: normal;
     font-weight: 100;
 }
+
+@font-face {
+    font-family: 'SNAKE';
+    src: url(fonts/SnakeBusiness.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'sillydotsplash';
+    src: url(fonts/SplashBlobsnDots.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'sillyobjectletter';
+    src: url(fonts/galFont.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'sillyletterletter';
+    src: url(fonts/Gaellingpates.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'sillysquigglies';
+    src: url(fonts/Gaellingpates.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: '8ball';
+    src: url(fonts/SinkHoles.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'storybook1';
+    src: url(fonts/Kingthings\ Kurllie.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'storybook2';
+    src: url(fonts/AButterflyOnaDaffodil.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+@font-face {
+    font-family: 'storybook3';
+    src: url(fonts/Rainbowbitch2.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'storybook4';
+    src: url(fonts/ALittleScribbleinMyBook.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+
+
+
+
+
 
 h1 {
     font-family: cloud;
